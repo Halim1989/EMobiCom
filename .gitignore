@@ -22,12 +22,14 @@ $RECYCLE.BIN/
 # =========================
 
 test
+.metadata
 .DS_Store
 .AppleDouble
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
